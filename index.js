@@ -17,7 +17,7 @@ say('base\nBot', {
   font: 'tiny',
   align: 'center',
   gradient: ['green','red']});
-say(`base para bot de alastor`, {
+say(`GokuBot-MD`, {
   font: 'console',
   align: 'center',
   gradient: ['green', 'red']});
