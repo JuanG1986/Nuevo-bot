@@ -46,15 +46,15 @@ global.titulowm2 = `titulowm2`
 global.igfg = 'igfg';
 global.wait = '*Cargando...*';
 
-global.imagen1 = fs.readFileSync('./imagen1');
-global.imagen2 = fs.readFileSync('./imagen2');
-global.imagen3 = fs.readFileSync('./imagen3');
-global.imagen4 = fs.readFileSync('./imagen4');
-global.imagen5 = fs.readFileSync('./imagen5');
-global.imagen6 = fs.readFileSync('./imagen6');
-global.imagen7 = fs.readFileSync('./imagen7');
-global.imagen8 = fs.readFileSync('./imagen8');
-global.imagen9 = fs.readFileSync('./imagen9');
+global.imagen1 = fs.readFileSync('./imagen1.jpg');
+global.imagen2 = fs.readFileSync('./imagen2.jpg');
+global.imagen3 = fs.readFileSync('./imagen3.jpg');
+global.imagen4 = fs.readFileSync('./imagen4.jpg');
+global.imagen5 = fs.readFileSync('./imagen5.jpg');
+global.imagen6 = fs.readFileSync('./imagen6.jpg');
+global.imagen7 = fs.readFileSync('./imagen7.jpg');
+global.imagen8 = fs.readFileSync('./imagen8.jpg');
+global.imagen9 = fs.readFileSync('./imagen9.jpg');
 
 global.mods = [];
 
